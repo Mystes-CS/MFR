@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_100">
+
+    <LinearLayout
+        android:id="@+id/List_NameLi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="車主姓名 ：　"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/List_Name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:id="@+id/List_ScoreLi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/List_NameLi"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="車主評價 ：　"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/List_Score"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:id="@+id/List_PlaceLi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/List_ScoreLi"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="出發地點 ：　"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/List_Place"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="22sp" />
+    </LinearLayout>
+    <LinearLayout
+    android:layout_marginLeft="10dp"
+    android:id="@+id/List_TimeLi"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/List_PlaceLi"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="出發時間 ：　"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/List_Time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:textSize="22sp" />
+</LinearLayout>
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:id="@+id/List_DescriptLi_P"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/List_TimeLi"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="車主備註 ：　"
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/List_Descript_P"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:textSize="22sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/List_DescriptLi_P"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/List_Cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="15dp"
+            android:text="取消請求" />
+    </LinearLayout>
+</RelativeLayout>

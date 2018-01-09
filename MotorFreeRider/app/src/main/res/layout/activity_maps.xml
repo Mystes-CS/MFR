@@ -1,0 +1,154 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/grey_100"
+                android:minHeight="?attr/actionBarSize"
+                android:theme="?attr/actionBarTheme" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <fragment
+                android:id="@+id/map"
+                android:name="com.google.android.gms.maps.SupportMapFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="com.example.motorfreerider.MapsActivity"
+                tools:layout_editor_absoluteY="4dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#02DF82"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/oneButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#97CBFF"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/wantToDrive"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/wantToDrive" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/DuringDrivebtn_Owner"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#FA8072"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/DuringDriveOwner"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="共乘中...(點我看乘客資訊)" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/DuringDrivebtn_Passenger"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="#FA8072"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/DuringDrivePassenger"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="共乘中...(點我看司機資訊)" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/twoButton"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="#02DF82"
+                android:orientation="horizontal"
+                android:visibility="invisible"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="#7AFEC6"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <Button
+                        android:id="@+id/together_button"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:text="@string/ride_together" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="#66B3FF"
+                    android:orientation="horizontal"
+                    android:weightSum="2">
+
+                    <Button
+                        android:id="@+id/sear_button"
+                        style="?android:attr/borderlessButtonStyle"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5"
+                        android:text="@string/search" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <android.support.design.widget.NavigationView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/left_drawer"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#ffffff"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        app:headerLayout="@layout/drawer_header"
+        app:menu="@menu/activity_main2_drawer" />
+</android.support.v4.widget.DrawerLayout>

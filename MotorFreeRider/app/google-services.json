@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525410001321",
+    "project_id": "firebase-motorfreerider"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525410001321:android:e376b920c5dcaffd",
+        "android_client_info": {
+          "package_name": "com.example.motorfreerider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525410001321-t4rjerm2pujgnkujaquv53kd85j8j0aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motorfreerider",
+            "certificate_hash": "c980881cc611282219396afbcef35caaaa07a9a0"
+          }
+        },
+        {
+          "client_id": "525410001321-tbhvgiq1911a04bpp8b0gg7nlf2h95e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWRXyRQWLNWf1SmeeXJVN8XD9zBMatFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
