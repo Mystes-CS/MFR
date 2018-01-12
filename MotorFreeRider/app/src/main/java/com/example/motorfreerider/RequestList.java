@@ -78,6 +78,6 @@ public class RequestList extends AppCompatActivity implements AdapterView.OnItem
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        Toast.makeText(this, "FUCK", Toast.LENGTH_SHORT).show();
-    }
+
+}
 }

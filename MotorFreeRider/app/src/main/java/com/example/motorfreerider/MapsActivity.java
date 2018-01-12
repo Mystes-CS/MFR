@@ -261,7 +261,6 @@ public class MapsActivity extends AppCompatActivity
                     }
                     if (ident.equals("owner")) {
                         Toast.makeText(MapsActivity.this, "共乘資訊", Toast.LENGTH_SHORT).show();
-                        finish();
                         Intent intent = new Intent(MapsActivity.this, RequestList.class);
                         startActivity(intent);
                         return true;

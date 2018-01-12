@@ -48,16 +48,18 @@ public class RequestListForPassenger extends AppCompatActivity implements Adapte
                     _user.setID(jsonObj.get("Owner ID").toString());
                     GetRegister getRegister = new GetRegister(_user.getID());
                     result = getRegister.GetRegister();
+                    Log.w("List",result);
                     JSONObject jsonOBJ = new JSONObject(result);
                     String Time = String.format("%s/%s/%s %s:%s", jsonOBJ.get("Year").toString(), jsonOBJ.get("Month").toString(), jsonOBJ.get("Date").toString(), jsonOBJ.get("Hour").toString(),jsonOBJ.get("Minute").toString());
                     _user.setStart(jsonOBJ.get("start").toString());
                     _user.setScore(jsonOBJ.get("Score").toString());
                     _user.setPassengerID(jsonObj.get("ID").toString());
-                    _user.setDescription(jsonObj.get("Description").toString());
+                    _user.setDescription(jsonOBJ.get("Description").toString());
                     _user.setMobileNumber(jsonOBJ.getString("PhoneNumber"));
                     _user.setFirstName(jsonOBJ.get("FirstName").toString());
                     _user.setLastName(jsonOBJ.get("LastName").toString());
                     _user.setTime(Time);
+                  //  Log.w("List",_user.getDescription());
                     userList.add(_user);
                 }
             }

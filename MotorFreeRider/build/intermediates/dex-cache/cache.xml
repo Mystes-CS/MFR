@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.6.0.aar\caa4ec6703b80d5e92e955d9d4996d17\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.6.0.aar\4c78dea780c2249efbc02da42c5af7af\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="831f41aeaed87d60267f25a60cd976e450b44580">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.6.0.aar\3613e79c181580a2f2b6dd7c25222133\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0699f5243f4a02b80d32d9ee9cf31aefd7738994">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.6.0.aar\d51653fc4701c0ceebaaf6559e1d2595\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd1ff651ddb8608e9c4037f3d9ab475e9472abb2">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\b6b4fdb2bcf8ea87c5f1a92066a074f5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\74426d898dd60622d28373992dc73a5a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.0.aar\90de3b115fb93388e5dc3f9b02b55c3e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48ab283a4cda3b78eda2c149b588cb0aa0c66cc9">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.6.0.aar\ca0546e5f1c551009b38ca5acd562dc9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="494e571b0b3b19a3de7b78c5fdcd76e4320cb62e">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-fido-11.6.0.aar\1519ded36f0d38610160c0e603b9bf76\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37fb098919d04fcc94953b96cfaf272700295c75">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.6.0.aar\9159830d3a175e64d1997ac9494cbe44\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6ff091e2c6df07894e5b921671404047d70d3f7">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.6.0.aar\5fe0aa11671275a6c02bd6bfed16d068\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4b34a372c7459432972df515c797a068cb822f3">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\10a239531fc4ffb4dcc7b8a7c2f36ce8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.6.0.aar\71ccf39059bb218c83e659c56e944a91\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b405d8f131476b389218e2a2d6cc8cbc8c7414b1">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.6.0.aar\1b6939332fa3f08090a7c510918841c5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65cc2d4713d7fe1793da855fd4e0d26bd1b1bc94">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.6.0.aar\238cf186eb0281d31eede28b3b1ebf6f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.6.0.aar\3cb877cbd105d72c39947182199b8530\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e215b89b300b7fe0fdb5a0e0003166319b779fd8">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.6.0.aar\0734c2e028ebfe7544f71c7dc7c4e892\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="35332eb6e97e4bee837b31445c699f51537ed620">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.0.aar\2b13d01ac08118784fda8dbf568807da\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c5ee016c8815db37d662f18c497aee13150f9e">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.0.aar\ec67a9f5610a2a75786e954e7a96f7bd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.6.0.aar\9d08db50d814c7e9691552c90a664bb8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d59a2bfadd1555550c477ea2223a6911692970d">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.6.0.aar\eda35a73d14ea8484d5826002f435558\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.1.aar\c677fa2148fb71964848e7ee7621cb37\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8a80c9882b064f2943e10649a8d2b249f5bf176">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d88232ed2e0f9bf8cbee35fcb4b7f14e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.6.0.aar\3181a374c949ec35333da346502eb62c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bff7bd70e4906aa2d9190e56461758be064e477d">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.1.aar\58e2ebe57d637e11f83daf670a0ecb7d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="925879273e627f34059466359ba6789cf61889e2">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.6.0.aar\176c2f2c48e4aee26f5f38a57f23b0c0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="605a967daf18f8059be93eb4a3cccaa80e2cb7e4">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.6.0.aar\e0df45686db67f98aef6f9767f1a237c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f63291c198bf572a4b24353ec91e8dc112f5e7f3">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.6.0.aar\9d51654102cb8e61f100e8087ee93322\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e77ffa091c317add00f041b0f152412099b9939">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\83fe77ecde2d86719163dfd5c028cd73\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6744a722b558c994eb23504c7871807f3fa35533">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.6.0.aar\20ee0ad5f8e32d4fe03f0205696d2fc1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751e3ec52c7212319387bbe9760acbd2dbb0030c">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\facebook-login-4.29.0.aar\a5dd824847f416c619be5e84dface289\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.6.0.aar\9e2175a95cd5eb284051d510adabd47b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1717f8ca9c76ba63420b6e68b723904d4c05f8b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\13162e1fc2630609c175eaa73cdc223b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\b04c92b06230afb2c6c97dccceb28885\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.6.0.aar\634cb137305cf1c8714e7b14198d095e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\3127e646ce9cec52605dd8921adefe35\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b0cb1d3587fcae786438f623e9131d4e3b9d35b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.6.0.aar\4b4e0c691c1b1939a8a48f5359a27932\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1514673cd4395b6e673bd1d28b2b3493d5c1fbe">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.6.0.aar\f3abd8ba99bbc63700784543596eb772\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.6.0.aar\816a131400ddbc029f0dd25fd4efb3fc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b5f9fc751f8e3a49e0a07890d4172f98ba7832f">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.6.0.aar\dfb5d1e0b1dba3029f6d75c459b260e2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b0e8bbef30cef79d7bb54bd4f671e3663bc7f4">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.6.0.aar\828cf73c8daf3d36e9aee5a4fb273575\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="269771e258a0d07bc8f5213f1f5ed77e8f42d72f">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\b68b7b54572c20b4350e0a4523206cbd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1a9377553f36949950d90d77bc3c64f442cd291">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.6.0.aar\233db61b8e43aaa5ba9ac434b9edfc0c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e87416e4c251908a5146e8bb99d19af6a05d877f">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.6.0.aar\4d9c897b1802da1a9ee9c34994d82ef4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6c2f10ddd5dfe761c2eb8033544a0765b8a74879">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\8fa5e0592692a9ff43b2a078acb43ddc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.6.0.aar\fed15c1d33b4e13e9d99a56543817c8b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cabecb4e0c56a1ba34e4e8037e87bbd796f9241">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.6.0.aar\120889abb8ad5138c2930ca34ac3bf62\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="000099d7e6f650c91ce04a614a320d0f08a04420">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\4eb1cb428855445e481320912fb249b1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.1.aar\97d104bb275ca2e549b04bde6b50e022\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ca71e38c643e51083ab3a07f3a056bfb066caec">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\2d6a4ea2dad3908ec4d8849cab505c23\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\facebook-common-4.29.0.aar\8464c0eb7124e1407667c424679c090d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f95788f0e923006a2da51733d4cbd5c08aad299c">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-config-11.6.0.aar\c5dc070cf5c9262b066e85c8fbc0c7ab\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="735b4bd33fcf5cd72f368a01b566fc62908b386b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\facebook-core-4.29.0.aar\ef6a6621c5820dcfa1d91b6e90819249\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc98b63d89490102b0a38423e24dce190354795b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.6.0.aar\0300744af3894220025d74e48cc48612\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d90cb9610620b7631c75f1953a4956810edd4bed">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.0.aar\2333997e35b41bd9aaf7c11b41c5497f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.1.aar\df9ef3c2b7127ed294634d875dab7969\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbbd26dd2f6d46181b41a5f6f5e34889442a811b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\30298ec1429e7d9e1dfb1146bdcd6f42\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.6.0.aar\72a7b4919eb76fd2f839ed69b9a16f3e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="994e89a725c27e7f2c958b87f3e15494ddc3c20c">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.6.0.aar\d601f77b225e8816f2c1df3839866cbe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.0.aar\63f71ab96515cff7227bcec18677aa2b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc387427a76c6a9fba40a490e48d244a989690c8">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.6.0.aar\b94634cab77142862f50ceddb5662b18\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b59670ee9b4df2e0852a31785f7bee0ad75c9b6e">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.6.0.aar\7d403f820b01da88e58f18c6a7f81c50\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c22269e1d6331aa1cc266ff8b1404a621b4896d">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\1482fa8cdd4023769ea61c13050bbe29\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.6.0.aar\9bc4d4b04b2f09a9ea60849d632b914c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9b8544d0c4d3a508ffc7da674ac79d5dc5d79395">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\25c36318ea54b05e73e44a5e3a421d24\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\7ae44a768a45876971050a7237eb5b9b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\2a82a5ca69e003e095f461fc0c345474\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.6.0.aar\2e0f3d893f6446e73d3e4b674f60e42a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18aeb474953183f095b7caa30890693d567be7fe">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.6.0.aar\baac58b1c3e9a3b32e0fe5d0fc089049\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a02bb932048d61ff79da9226d76b33c64c89615">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.6.0.aar\80ea4abb5cdb806ce01df411e2cf92f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="521a37797521dacc05e46963f38243e61ccec018">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\play-services-games-11.6.0.aar\75d94ce442f09b8957972b7d47cb7e79\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89767cd6eddf55c8cccd281d3f0d057cb156b8ac">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zonghan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\96826742257bcbb8b48b208e94b746b3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="D:\Software-Engineering\MotorFreeRider\app\build\intermediates\transforms\preDex\release\77\classes.dex" />
+    </item>
+
+</items>

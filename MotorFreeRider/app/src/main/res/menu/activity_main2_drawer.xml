@@ -5,31 +5,31 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_map"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_home_black_36dp"
             android:title="@string/return_map" />
         <item
             android:id="@+id/nav_profile"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_person_black_36dp"
             android:title="@string/profile"/>
         <item
             android:id="@+id/nav_information"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@drawable/ic_motorcycle_black_36dp"
             android:title="@string/information" />
         <item
             android:id="@+id/nav_setting"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_settings_black_36dp"
             android:title="@string/setting" />
         <item
             android:id="@+id/nav_change"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@drawable/ic_swap_horiz_black_36dp"
             android:title="變更身分" />
         <item
             android:id="@+id/nav_contact"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_feedback_black_36dp"
             android:title="@string/contact" />
         <item
             android:id="@+id/nav_signOut"
-            android:icon="@drawable/ic_menu_manage"
+            android:icon="@drawable/ic_exit_to_app_black_36dp"
             android:title="@string/sign_out" />
     </group>
 

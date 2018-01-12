@@ -78,7 +78,7 @@ public class ChangeProfile {
             HttpEntity entity = httpResponse.getEntity();
             result = EntityUtils.toString(entity);
 
-            //   Log.w("result",stringFromServ);
+            Log.w("result",result);
         } catch (Exception e) {
             Log.d("InputStream", e.getLocalizedMessage());
         }
